@@ -7,3 +7,6 @@
 <p>· Przechodzisz do instalowanie.bat</p>
 <p>· Po zainstalowaniu przechodzisz do src/start.bat</p>
 <p>· I ROZWALAJ!</p>
+
+<br>
+<h1> Wszystkie pytania pisać do tojadamage#0001</h1>
